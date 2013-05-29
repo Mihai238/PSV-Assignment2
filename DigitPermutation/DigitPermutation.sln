@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitPermutation", "DigitPermutation\DigitPermutation.csproj", "{E32D8155-FCA3-4376-BA13-67546456446D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32D8155-FCA3-4376-BA13-67546456446D}.Debug|x86.ActiveCfg = Debug|x86
+		{E32D8155-FCA3-4376-BA13-67546456446D}.Debug|x86.Build.0 = Debug|x86
+		{E32D8155-FCA3-4376-BA13-67546456446D}.Release|x86.ActiveCfg = Release|x86
+		{E32D8155-FCA3-4376-BA13-67546456446D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DigitPermutation\DigitPermutation.csproj
+	EndGlobalSection
+EndGlobal

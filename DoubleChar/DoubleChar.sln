@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleChar", "DoubleChar\DoubleChar.csproj", "{493DA9E5-B736-4E31-B3CE-94A13B33690B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493DA9E5-B736-4E31-B3CE-94A13B33690B}.Debug|x86.ActiveCfg = Debug|x86
+		{493DA9E5-B736-4E31-B3CE-94A13B33690B}.Debug|x86.Build.0 = Debug|x86
+		{493DA9E5-B736-4E31-B3CE-94A13B33690B}.Release|x86.ActiveCfg = Release|x86
+		{493DA9E5-B736-4E31-B3CE-94A13B33690B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DoubleChar\DoubleChar.csproj
+	EndGlobalSection
+EndGlobal

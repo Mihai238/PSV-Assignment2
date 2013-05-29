@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Order3/Main.cs">
+    <Files>
+      <File FileName="Order3/Main.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Order3/Main.cs" line="31" offsetX="668" offsetY="392" expression="a" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

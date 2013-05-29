@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{CCD4671A-4776-465A-84E8-9082533D98BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD4671A-4776-465A-84E8-9082533D98BE}.Debug|x86.ActiveCfg = Debug|x86
+		{CCD4671A-4776-465A-84E8-9082533D98BE}.Debug|x86.Build.0 = Debug|x86
+		{CCD4671A-4776-465A-84E8-9082533D98BE}.Release|x86.ActiveCfg = Release|x86
+		{CCD4671A-4776-465A-84E8-9082533D98BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = VigenereCipher\VigenereCipher.csproj
+	EndGlobalSection
+EndGlobal
